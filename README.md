@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hi, It's me Dipendra Patel, a passionate web developer.<br>Committed to continuous learning and open to new opportunities.<h2>Let's connect and build!
+<h2 text-align="center">Hi, It's me Dipendra Patel, a passionate web developer.<br>Committed to continuous learning and open to new opportunities.<h2>Let's connect and build!
 
 
 ## 🌐 Socials:
