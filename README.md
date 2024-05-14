@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, It's me Dipendra Patel, a passionate web developer.<br>Committed to continuous learning and open to new opportunities.<br>Let's connect and build!
+<h2>Hi, It's me Dipendra Patel, a passionate web developer.<br>Committed to continuous learning and open to new opportunities.<h2>Let's connect and build!
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dipendra1896&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dipendra1896&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipendra1896&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dipendra1896&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
