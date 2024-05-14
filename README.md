@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Tech Stack:</p>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
@@ -28,11 +28,11 @@
 
 ###
 
-<p align="left">Social media:</p>
+<h2 align="left">Social media:</h2>
 
 ###
 
-<div align="center">
+<div align="center" font-size="bold">
   <a href="https://www.linkedin.com/in/dipendra-raut-kurmi-36a053275" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
