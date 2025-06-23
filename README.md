@@ -19,8 +19,7 @@ I'm a **Software Engineer** and a passionate **Cybersecurity Enthusiast**. I lov
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/feed/?trk=hb_signin)
-- [Email](dipendrapatel371896@gmail.com)
+- [LinkedIn](www.linkedin.com/in/dipendra-raut-kurmi-36a053275)
 
 ---
 
