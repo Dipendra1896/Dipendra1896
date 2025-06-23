@@ -1,21 +1,29 @@
-# 💫 About Me:
-<h2 text-align="center">Hi, It's me Dipendra Patel, a passionate web developer.<br>Committed to continuous learning and open to new opportunities.<h2>Let's connect and build!
+# Hi there 👋 I'm Dipendra
 
+I'm a **Software Engineer** and a passionate **Cybersecurity Enthusiast**. I love building robust software solutions and exploring the latest in security, privacy, and ethical hacking. My interests span distributed systems, secure coding, penetration testing, and automation.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dipendrapatel1896) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dipendrapatel1896) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipendra-raut-kurmi-36a053275) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dipendra1896&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dipendra1896&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipendra1896&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 💻 Software Engineer with hands-on experience in Java, Python, C/C++, and web technologies.
+- 🛡️ Cybersecurity enthusiast: I enjoy learning about vulnerabilities, secure development, and ethical hacking.
+- 📚 Lifelong learner: Always exploring new technologies, frameworks, and security tools.
+- 🤝 Open to collaboration on software and security projects.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Skills
+
+- **Languages:** Java, Python, C/C++, JavaScript
+- **Web:** HTML, CSS, Node.js, React,Express
+- **Cybersecurity:** Penetration Testing, Vulnerability Assessment, Secure Coding Practices
+- **Tools:** Git, Linux, Wireshark & Tshark, Burp Suite, Metasploit, Nmap & Zenmap
+- **Other:** Distributed Systems, Algorithms, Data Structures
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/feed/?trk=hb_signin)
+- [Email](dipendrapatel371896@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dipendra1896&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> “Security is not a product, but a process.” – Bruce Schneier
+
+Thanks for visiting my profile! 🚀
