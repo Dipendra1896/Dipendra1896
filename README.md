@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Dipendra
 
-I'm a **Software Engineer** and a passionate **Cybersecurity Enthusiast**. I love building robust software solutions and exploring the latest in security, privacy, and ethical hacking. My interests span distributed systems, secure coding, penetration testing, and automation.
+I'm a **Software Engineer** and a passionate **Cybersecurity Enthusiast, AWS Certifield Cloud Practitioner & DevOps Practitioner**. I love building robust software solutions and exploring the latest in security, privacy, and ethical hacking. My interests span distributed systems, secure coding, penetration testing, and automation.
 
 ## 🚀 About Me
 
