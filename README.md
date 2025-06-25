@@ -15,7 +15,7 @@ I'm a **Software Engineer** and a passionate **Cybersecurity Enthusiast, AWS Cer
 - **Web:** HTML, CSS, Node.js, React,Express
 - **Cloud Computing:** AWS Certified Cloud Practitioner
 - **Cybersecurity:** Penetration Testing, Vulnerability Assessment, Secure Coding Practices
-- **Tools:** Git, Linux,Docker, Wireshark & Tshark, Burp Suite, Metasploit, Nmap & Zenmap
+- **Tools:** Git, Linux, Docker, Wireshark & Tshark, Burp Suite, Metasploit, Nmap & Zenmap
 - **Other:** Distributed Systems, Algorithms, Data Structures
 
 ## 📫 Connect with Me
